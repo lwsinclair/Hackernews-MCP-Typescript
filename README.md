@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/traves-theberge-hackernews-mcp-typescript-badge.png)](https://mseep.ai/app/traves-theberge-hackernews-mcp-typescript)
+
 # HackerNews MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that provides seamless integration with the HackerNews API, enabling AI assistants to access, analyze, and understand HackerNews content through standardized MCP interfaces.
